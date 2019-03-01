@@ -157,6 +157,7 @@ def main():
 				print "decrement octave, new octave = " #+ current_octave
 
 			elif current_note + current_octave != 0 or current_note + current_octave != 1 or current_note + current_octave != 16384:
+
 				start_note(midi_out, current_note + current_octave + wammy)
 				print "playing note: " #+ current_note
 			inputs_read = True
