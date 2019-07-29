@@ -6,9 +6,9 @@ Synthesizer must be launched seperately, and currently cannot change octave, cur
 
 Requires cwiid 
 
-pip install cwiid
+```pip install cwiid```
 
 and rtmidi-python
 
-pip install rtmidi-python
+```pip install rtmidi-python```
 
