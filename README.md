@@ -12,3 +12,6 @@ and rtmidi-python
 
 ```pip install rtmidi-python```
 
+To run, run main.py as main. 
+
+```python main.py```
