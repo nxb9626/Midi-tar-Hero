@@ -1,4 +1,4 @@
-# Wii-tar
+# Midi-tar Hero
 Repository for the fully playable guitar hero controller project. 
 
 Currently the project allows for inputs to be received from the wiimote and sent locally to the synthesizer. 
